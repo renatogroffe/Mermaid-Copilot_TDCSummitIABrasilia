@@ -3,7 +3,7 @@ Materiais da apresentação "Inteligência Artificial + Documentação de Projet
 
 ---
 
-Título da apresentação: **Protegendo os dados de suas APIs REST: ferramentas, boas práticas, cuidados...**
+Título da apresentação: **Inteligência Artificial + Documentação de Projetos: utilizando GitHub Copilot + Mermaid para documentar soluções**
 
 Data: **24/10/2024 (quinta-feira)**
 
@@ -15,7 +15,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Restream**
 
-Tecnologias e tópicos abordados: **Cybersecurity, JWT, Azure API Management, JWE, Microsoft Entra ID, OWASP API Security Top 10, Rate Limit, .NET, ASP.NET Core...**
+Tecnologias e tópicos abordados: **PREENCHER**
 
 Número de participantes: **31 pessoas (pico de audiência ao longo da live)**
 
