@@ -15,7 +15,7 @@ Tipo do evento: **Online**
 
 Ferramenta de transmissão: **Restream**
 
-Tecnologias e tópicos abordados: **PREENCHER**
+Tecnologias e tópicos abordados: **GitHub Copilot, Mermaid, Visual Studio Code, GitHub, Documentação de Sistemas, UML, C#, Entity Framework Core, OTP**
 
 Número de participantes: **31 pessoas (pico de audiência ao longo da live)**
 
