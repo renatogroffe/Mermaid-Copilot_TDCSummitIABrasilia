@@ -7,8 +7,6 @@ Título da apresentação: **Inteligência Artificial + Documentação de Projet
 
 Data: **24/10/2024 (quinta-feira)**
 
-Tipo do evento: **Online**
-
 Evento: **TDC Summit IA Brasília 2024**
 
 Tipo do evento: **Online**
