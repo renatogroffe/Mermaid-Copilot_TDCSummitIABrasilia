@@ -3,11 +3,31 @@ Materiais da apresentação "Inteligência Artificial + Documentação de Projet
 
 ---
 
-31 pessoas
+Título da apresentação: **Protegendo os dados de suas APIs REST: ferramentas, boas práticas, cuidados...**
 
-24/10/2024 (quinta-feira)
+Data: **24/10/2024 (quinta-feira)**
+
+Tipo do evento: **Online**
+
+Evento: **TDC Summit IA Brasília 2024**
+
+Tipo do evento: **Online**
+
+Ferramenta de transmissão: **Restream**
+
+Tecnologias e tópicos abordados: **Cybersecurity, JWT, Azure API Management, JWE, Microsoft Entra ID, OWASP API Security Top 10, Rate Limit, .NET, ASP.NET Core...**
+
+Número de participantes: **31 pessoas (pico de audiência ao longo da live)**
+
+Link do evento: **https://promo.thedevconf.com/sumiabra-microsoft**
+
+Deixo aqui meus agradecimentos ao **Rogério Rodrigues** por todo o apoio para que eu participasse como palestrante de mais uma edição do **TDC**.
 
 ---
+
+![Renato palestrando 1](img/m-03.png)
+
+![Renato palestrando 2](img/m-01.png)
 
 ---
 
