@@ -31,6 +31,8 @@ Deixo aqui meus agradecimentos ao **Rogério Rodrigues** por todo o apoio para q
 
 ![Renato palestrando 4](img/m-04.png)
 
+![Divulgação](img/divulgacao.png)
+
 ---
 
 ## Exemplos
